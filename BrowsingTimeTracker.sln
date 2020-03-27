@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowsingTimeTracker", "BrowsingTimeTracker.csproj", "{FEDEE7C1-3939-42C5-BAA8-4ABD4FC5A5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDEE7C1-3939-42C5-BAA8-4ABD4FC5A5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDEE7C1-3939-42C5-BAA8-4ABD4FC5A5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDEE7C1-3939-42C5-BAA8-4ABD4FC5A5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDEE7C1-3939-42C5-BAA8-4ABD4FC5A5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05A2837-4AE0-4E23-AB46-5EDA4F7CDF1A}
+	EndGlobalSection
+EndGlobal
